@@ -2,6 +2,7 @@
 
 This Power BI report examines forest fire activity across the Brazilian Amazon states, visualizing annual fire counts and geographic patterns.
 The dashboard helps identify high-risk regions and peak fire years.
+
 <img width="1920" height="1080" alt="Screenshot (693)" src="https://github.com/user-attachments/assets/31b7c8a2-6f94-4b62-aabd-1fb4188810ed" />
 
 ✨ Key Features
