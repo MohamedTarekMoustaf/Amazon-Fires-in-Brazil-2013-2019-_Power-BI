@@ -23,8 +23,7 @@ The rose layout makes it easy to spot years with unusually high activity at a gl
 
 🗂 Files
 
-Amazon_Fires.pbix	Complete Power BI Desktop report
-Screenshot.png	Dashboard screenshot with the rose chart visible
+Amazon_Fires.pbix:Complete Power BI Desktop report
 
 🛠️ Tools & Technologies
 
