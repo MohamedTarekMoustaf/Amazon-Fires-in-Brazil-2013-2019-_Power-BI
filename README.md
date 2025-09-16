@@ -11,7 +11,7 @@ Interactive Map Visuals
 Color-coded column charts on the map show total fires by state and year.
 
 Yearly Trend Analysis
-State-level columns display changes in fire frequency from 2013–2019.
+State-level columns display changes in fire frequency from 2013 to 2019.
 
 Rose (Polar) Pie Chart
 The Rose chart in the top-right corner provides a circular breakdown of total Amazon fires by year.
@@ -19,11 +19,11 @@ Why it’s useful:
 
 Each segment represents a year, and the radial length highlights the proportion of fires that year.
 
-The rose layout makes it easy to spot years with unusually high activity at a glance—e.g., 2017–2019 stand out with longer petals compared to quieter years.
+The rose layout makes it easy to spot years with unusually high activity at a glance, e.g., 2017–2019 stand out with longer petals compared to quieter years.
 
 🗂 Files
 
-Amazon_Fires.pbix:Complete Power BI Desktop report
+Amazon_Fires.pbix: Complete Power BI Desktop report
 
 🛠️ Tools & Technologies
 
