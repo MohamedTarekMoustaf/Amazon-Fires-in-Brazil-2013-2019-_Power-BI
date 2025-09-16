@@ -22,9 +22,10 @@ Each segment represents a year, and the radial length highlights the proportion 
 The rose layout makes it easy to spot years with unusually high activity at a glance—e.g., 2017–2019 stand out with longer petals compared to quieter years.
 
 🗂 Files
-File	Description
+
 Amazon_Fires.pbix	Complete Power BI Desktop report
 Screenshot.png	Dashboard screenshot with the rose chart visible
+
 🛠️ Tools & Technologies
 
 Power BI Desktop – Data modeling, DAX, and custom visuals
