@@ -11,7 +11,7 @@ Interactive Map Visuals
 Color-coded column charts on the map show total fires by state and year.
 
 Yearly Trend Analysis
-State-level columns display changes in fire frequency from 2015–2020.
+State-level columns display changes in fire frequency from 2013–2019.
 
 Rose (Polar) Pie Chart
 The Rose chart in the top-right corner provides a circular breakdown of total Amazon fires by year.
